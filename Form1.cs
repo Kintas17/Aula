@@ -32,7 +32,7 @@ namespace Calculadora
                     resultado = valor1 + valor2;
                     label1.Text = resultado.ToString();
                     break;
-                case ".":
+                case "-":
                     resultado = valor1 - valor2;
                     label1.Text = resultado.ToString();
                     break;
@@ -44,7 +44,7 @@ namespace Calculadora
                     resultado = valor1 / valor2;
                     label1.Text = resultado.ToString();
                     break;
-                   
+              
             }
            
         }
@@ -109,7 +109,7 @@ namespace Calculadora
 
         private void button24_Click(object sender, EventArgs e)
         {
-            label1.Text = label1.Text + ".";
+            if (!label1.Text.Contains(",")) label1.Text += ",";
         }
 
         private void button17_Click(object sender, EventArgs e)
@@ -146,7 +146,7 @@ namespace Calculadora
             valor2 = double.Parse(label1.Text);
             resultado = valor1 + valor2;
             label1.Text = Convert.ToString((valor1 * valor2) / 100);
-            label1.Text = "";
+            
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -169,6 +169,16 @@ namespace Calculadora
         private void button3_Click(object sender, EventArgs e)
         {
             memoria = Convert.ToDouble(label1.Text);
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Button23_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

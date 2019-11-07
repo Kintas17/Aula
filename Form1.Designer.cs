@@ -59,7 +59,7 @@
             // label2
             // 
             this.label2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(171)))), ((int)(((byte)(175)))), ((int)(((byte)(178)))));
-            this.label2.Location = new System.Drawing.Point(192, 279);
+            this.label2.Location = new System.Drawing.Point(195, 264);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(351, 337);
             this.label2.TabIndex = 0;
@@ -68,7 +68,7 @@
             // 
             this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(163)))), ((int)(((byte)(156)))));
             this.label1.Font = new System.Drawing.Font("OCR A Extended", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(208, 140);
+            this.label1.Location = new System.Drawing.Point(209, 139);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(319, 82);
             this.label1.TabIndex = 1;
@@ -76,6 +76,8 @@
             // 
             // button1
             // 
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Location = new System.Drawing.Point(198, 279);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(57, 55);
@@ -85,6 +87,8 @@
             // 
             // button2
             // 
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button2.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.Location = new System.Drawing.Point(270, 279);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(57, 55);
@@ -95,6 +99,8 @@
             // 
             // button3
             // 
+            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button3.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.Location = new System.Drawing.Point(342, 279);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(57, 55);
@@ -105,6 +111,8 @@
             // 
             // button4
             // 
+            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button4.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.Location = new System.Drawing.Point(414, 279);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(57, 55);
@@ -115,6 +123,8 @@
             // 
             // button5
             // 
+            this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button5.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button5.Location = new System.Drawing.Point(486, 279);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(57, 55);
@@ -125,17 +135,21 @@
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(486, 340);
+            this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button6.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button6.Location = new System.Drawing.Point(486, 351);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(57, 55);
             this.button6.TabIndex = 11;
-            this.button6.Text = "button6";
+            this.button6.Text = "√";
             this.button6.UseVisualStyleBackColor = true;
             this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
             // button7
             // 
-            this.button7.Location = new System.Drawing.Point(414, 340);
+            this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button7.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button7.Location = new System.Drawing.Point(414, 351);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(57, 55);
             this.button7.TabIndex = 10;
@@ -145,7 +159,9 @@
             // 
             // button8
             // 
-            this.button8.Location = new System.Drawing.Point(342, 340);
+            this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button8.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button8.Location = new System.Drawing.Point(342, 351);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(57, 55);
             this.button8.TabIndex = 9;
@@ -155,7 +171,9 @@
             // 
             // button9
             // 
-            this.button9.Location = new System.Drawing.Point(270, 340);
+            this.button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button9.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button9.Location = new System.Drawing.Point(270, 351);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(57, 55);
             this.button9.TabIndex = 8;
@@ -165,7 +183,9 @@
             // 
             // button10
             // 
-            this.button10.Location = new System.Drawing.Point(198, 340);
+            this.button10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button10.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button10.Location = new System.Drawing.Point(198, 351);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(57, 55);
             this.button10.TabIndex = 7;
@@ -175,6 +195,8 @@
             // 
             // button11
             // 
+            this.button11.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button11.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button11.Location = new System.Drawing.Point(486, 412);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(57, 55);
@@ -185,6 +207,8 @@
             // 
             // button12
             // 
+            this.button12.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button12.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button12.Location = new System.Drawing.Point(414, 412);
             this.button12.Name = "button12";
             this.button12.Size = new System.Drawing.Size(57, 55);
@@ -195,6 +219,8 @@
             // 
             // button13
             // 
+            this.button13.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button13.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button13.Location = new System.Drawing.Point(342, 412);
             this.button13.Name = "button13";
             this.button13.Size = new System.Drawing.Size(57, 55);
@@ -205,6 +231,8 @@
             // 
             // button14
             // 
+            this.button14.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button14.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button14.Location = new System.Drawing.Point(270, 412);
             this.button14.Name = "button14";
             this.button14.Size = new System.Drawing.Size(57, 55);
@@ -215,6 +243,8 @@
             // 
             // button15
             // 
+            this.button15.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button15.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button15.Location = new System.Drawing.Point(198, 412);
             this.button15.Name = "button15";
             this.button15.Size = new System.Drawing.Size(57, 55);
@@ -225,6 +255,8 @@
             // 
             // button16
             // 
+            this.button16.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button16.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button16.Location = new System.Drawing.Point(486, 473);
             this.button16.Name = "button16";
             this.button16.Size = new System.Drawing.Size(57, 55);
@@ -235,6 +267,8 @@
             // 
             // button17
             // 
+            this.button17.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button17.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button17.Location = new System.Drawing.Point(414, 473);
             this.button17.Name = "button17";
             this.button17.Size = new System.Drawing.Size(57, 116);
@@ -245,6 +279,8 @@
             // 
             // button18
             // 
+            this.button18.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button18.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button18.Location = new System.Drawing.Point(342, 473);
             this.button18.Name = "button18";
             this.button18.Size = new System.Drawing.Size(57, 55);
@@ -255,6 +291,8 @@
             // 
             // button19
             // 
+            this.button19.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button19.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button19.Location = new System.Drawing.Point(270, 473);
             this.button19.Name = "button19";
             this.button19.Size = new System.Drawing.Size(57, 55);
@@ -265,6 +303,8 @@
             // 
             // button20
             // 
+            this.button20.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button20.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button20.Location = new System.Drawing.Point(198, 473);
             this.button20.Name = "button20";
             this.button20.Size = new System.Drawing.Size(57, 55);
@@ -275,6 +315,8 @@
             // 
             // button21
             // 
+            this.button21.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button21.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button21.Location = new System.Drawing.Point(486, 534);
             this.button21.Name = "button21";
             this.button21.Size = new System.Drawing.Size(57, 55);
@@ -285,25 +327,32 @@
             // 
             // button23
             // 
+            this.button23.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button23.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button23.Location = new System.Drawing.Point(342, 534);
             this.button23.Name = "button23";
             this.button23.Size = new System.Drawing.Size(57, 55);
             this.button23.TabIndex = 24;
             this.button23.Text = "+/-";
             this.button23.UseVisualStyleBackColor = true;
+            this.button23.Click += new System.EventHandler(this.Button23_Click);
             // 
             // button24
             // 
+            this.button24.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button24.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button24.Location = new System.Drawing.Point(270, 534);
             this.button24.Name = "button24";
             this.button24.Size = new System.Drawing.Size(57, 55);
             this.button24.TabIndex = 23;
-            this.button24.Text = ".";
+            this.button24.Text = ",";
             this.button24.UseVisualStyleBackColor = true;
             this.button24.Click += new System.EventHandler(this.button24_Click);
             // 
             // button25
             // 
+            this.button25.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button25.Font = new System.Drawing.Font("OCR A Extended", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button25.Location = new System.Drawing.Point(198, 534);
             this.button25.Name = "button25";
             this.button25.Size = new System.Drawing.Size(57, 55);
@@ -347,6 +396,7 @@
             this.Controls.Add(this.label2);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
         }

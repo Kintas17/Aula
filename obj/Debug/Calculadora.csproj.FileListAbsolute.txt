@@ -7,3 +7,13 @@ C:\Users\User\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Propert
 C:\Users\User\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
 C:\Users\User\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
 C:\Users\User\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\P114\Downloads\Aula-master\Aula-master\bin\Debug\Calculadora.exe.config
+C:\Users\P114\Downloads\Aula-master\Aula-master\bin\Debug\Calculadora.exe
+C:\Users\P114\Downloads\Aula-master\Aula-master\bin\Debug\Calculadora.pdb
+C:\Users\P114\Downloads\Aula-master\Aula-master\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\P114\Downloads\Aula-master\Aula-master\obj\Debug\Calculadora.Form1.resources
+C:\Users\P114\Downloads\Aula-master\Aula-master\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\P114\Downloads\Aula-master\Aula-master\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\P114\Downloads\Aula-master\Aula-master\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\P114\Downloads\Aula-master\Aula-master\obj\Debug\Calculadora.exe
+C:\Users\P114\Downloads\Aula-master\Aula-master\obj\Debug\Calculadora.pdb
