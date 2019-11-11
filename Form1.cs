@@ -44,7 +44,7 @@ namespace Calculadora
                     resultado = valor1 / valor2;
                     label1.Text = resultado.ToString();
                     break;
-              
+
             }
            
         }
@@ -178,7 +178,7 @@ namespace Calculadora
 
         private void Button23_Click(object sender, EventArgs e)
         {
-
+            
         }
     }
 }
